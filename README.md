@@ -1,3 +1,4 @@
 # POKEDEX-POKEMON-INDEX
 
-https://pokeapi.co/
+API - https://pokeapi.co/
+LIVE - bestpokemonindex.netlify.app
