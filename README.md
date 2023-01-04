@@ -3,4 +3,4 @@
 API - https://pokeapi.co/
 
 
-LIVE -(https://bestpokemonindex.netlify.app/)
+LIVE -https://pokedexbyyash.netlify.app/
