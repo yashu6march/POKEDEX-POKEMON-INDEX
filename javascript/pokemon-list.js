@@ -5,7 +5,7 @@ let currentList = [];
 const typeColors = {
     'normal': '#BCBCAC',
     'fighting': '#BC5442',
-    'flying': '#669AFF',
+    'flying': '#669AFF', 
     'poison': '#AB549A',
     'ground': '#DEBC54',
     'rock': '#BCAC66',
